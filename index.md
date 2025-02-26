@@ -11,7 +11,7 @@ Welcome to the website for CS 101, Fundamentals of Computer Science I, at York C
 
 ## Links
 
-* [Syllabus](syllabus.html)
+* [Syllabus](syllabus.pdf)
 * [Schedule](schedule.html)
 * [Labs](labs/index.html)
 * [Assignments](assign/index.html)
